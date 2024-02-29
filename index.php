@@ -17,6 +17,7 @@ class Work extends Worker
     {
     }
 
+//Hello
     public function calculate(int $a, int $b): int
     {
         return $a + $b;
