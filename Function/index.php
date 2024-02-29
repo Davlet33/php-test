@@ -1,0 +1,4 @@
+<?php
+
+
+$func = fn() => "hello";
